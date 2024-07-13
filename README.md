@@ -1,5 +1,7 @@
 ✿ ASEAN Data Science Enablement Session 2024 — COVID-19 Dashboard ✿
 
+![Dashboard Image](img/Story Hania Ully Hafizha - ASEAN Foundation.png)
+
 ## Overview
 This dashboard, created using SAP Analytics Cloud, presents a comprehensive view of the COVID-19 situation across various ASEAN countries using historical data. The dashboard includes several features such as filters, bar charts, line charts, and a positivity rate indicator, providing insightful analysis and trends.
 
